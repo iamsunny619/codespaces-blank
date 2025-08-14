@@ -1,0 +1,7 @@
+public class{
+  public static void main(String args[]){
+    Scanner sc = new Scanner(System.in);
+    int n = sc.nextInt();
+     System.out.print("Factorial of "+n+" is = "+get_factorial(n));
+  }
+}
