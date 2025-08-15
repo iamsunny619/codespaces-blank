@@ -76,5 +76,3 @@ git stash drop              # Delete a stash
 ```
 
 ---
-
-Would you like this as a downloadable PDF or image for quick reference? Or maybe tailored to your workflow (e.g., Git with GitHub, GitLab, or Bitbucket)?
